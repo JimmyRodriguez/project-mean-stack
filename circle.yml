@@ -1,10 +1,10 @@
 machine:
 
   python:
-    version: 2.7
-    
+    version: 2.7.6
+
   node:
-    version:
+    version: 4.3.1
 
   services:
     - docker
